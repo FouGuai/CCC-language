@@ -1,0 +1,80 @@
+[
+{
+  "directory": "C:/Users/foush/code/project/CCC/build",
+  "command": "\"C:/Program Files/Cpp/Complier/w64devkit/bin/g++.exe\"  @CMakeFiles/CCC.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles/CCC.dir/src/AST_tree.cpp.obj -c C:/Users/foush/code/project/CCC/src/AST_tree.cpp",
+  "file": "C:/Users/foush/code/project/CCC/src/AST_tree.cpp",
+  "output": "CMakeFiles/CCC.dir/src/AST_tree.cpp.obj"
+},
+{
+  "directory": "C:/Users/foush/code/project/CCC/build",
+  "command": "\"C:/Program Files/Cpp/Complier/w64devkit/bin/g++.exe\"  @CMakeFiles/CCC.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles/CCC.dir/src/CCC.cpp.obj -c C:/Users/foush/code/project/CCC/src/CCC.cpp",
+  "file": "C:/Users/foush/code/project/CCC/src/CCC.cpp",
+  "output": "CMakeFiles/CCC.dir/src/CCC.cpp.obj"
+},
+{
+  "directory": "C:/Users/foush/code/project/CCC/build",
+  "command": "\"C:/Program Files/Cpp/Complier/w64devkit/bin/g++.exe\"  @CMakeFiles/CCC.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles/CCC.dir/src/Declare.cpp.obj -c C:/Users/foush/code/project/CCC/src/Declare.cpp",
+  "file": "C:/Users/foush/code/project/CCC/src/Declare.cpp",
+  "output": "CMakeFiles/CCC.dir/src/Declare.cpp.obj"
+},
+{
+  "directory": "C:/Users/foush/code/project/CCC/build",
+  "command": "\"C:/Program Files/Cpp/Complier/w64devkit/bin/g++.exe\"  @CMakeFiles/CCC.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles/CCC.dir/src/Environment.cpp.obj -c C:/Users/foush/code/project/CCC/src/Environment.cpp",
+  "file": "C:/Users/foush/code/project/CCC/src/Environment.cpp",
+  "output": "CMakeFiles/CCC.dir/src/Environment.cpp.obj"
+},
+{
+  "directory": "C:/Users/foush/code/project/CCC/build",
+  "command": "\"C:/Program Files/Cpp/Complier/w64devkit/bin/g++.exe\"  @CMakeFiles/CCC.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles/CCC.dir/src/Expr.cpp.obj -c C:/Users/foush/code/project/CCC/src/Expr.cpp",
+  "file": "C:/Users/foush/code/project/CCC/src/Expr.cpp",
+  "output": "CMakeFiles/CCC.dir/src/Expr.cpp.obj"
+},
+{
+  "directory": "C:/Users/foush/code/project/CCC/build",
+  "command": "\"C:/Program Files/Cpp/Complier/w64devkit/bin/g++.exe\"  @CMakeFiles/CCC.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles/CCC.dir/src/Lexer.cpp.obj -c C:/Users/foush/code/project/CCC/src/Lexer.cpp",
+  "file": "C:/Users/foush/code/project/CCC/src/Lexer.cpp",
+  "output": "CMakeFiles/CCC.dir/src/Lexer.cpp.obj"
+},
+{
+  "directory": "C:/Users/foush/code/project/CCC/build",
+  "command": "\"C:/Program Files/Cpp/Complier/w64devkit/bin/g++.exe\"  @CMakeFiles/CCC.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles/CCC.dir/src/Object.cpp.obj -c C:/Users/foush/code/project/CCC/src/Object.cpp",
+  "file": "C:/Users/foush/code/project/CCC/src/Object.cpp",
+  "output": "CMakeFiles/CCC.dir/src/Object.cpp.obj"
+},
+{
+  "directory": "C:/Users/foush/code/project/CCC/build",
+  "command": "\"C:/Program Files/Cpp/Complier/w64devkit/bin/g++.exe\"  @CMakeFiles/CCC.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles/CCC.dir/src/Stmt.cpp.obj -c C:/Users/foush/code/project/CCC/src/Stmt.cpp",
+  "file": "C:/Users/foush/code/project/CCC/src/Stmt.cpp",
+  "output": "CMakeFiles/CCC.dir/src/Stmt.cpp.obj"
+},
+{
+  "directory": "C:/Users/foush/code/project/CCC/build",
+  "command": "\"C:/Program Files/Cpp/Complier/w64devkit/bin/g++.exe\"  @CMakeFiles/CCC.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles/CCC.dir/src/Type.cpp.obj -c C:/Users/foush/code/project/CCC/src/Type.cpp",
+  "file": "C:/Users/foush/code/project/CCC/src/Type.cpp",
+  "output": "CMakeFiles/CCC.dir/src/Type.cpp.obj"
+},
+{
+  "directory": "C:/Users/foush/code/project/CCC/build",
+  "command": "\"C:/Program Files/Cpp/Complier/w64devkit/bin/g++.exe\"  @CMakeFiles/CCC.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles/CCC.dir/src/TypeEnvironment.cpp.obj -c C:/Users/foush/code/project/CCC/src/TypeEnvironment.cpp",
+  "file": "C:/Users/foush/code/project/CCC/src/TypeEnvironment.cpp",
+  "output": "CMakeFiles/CCC.dir/src/TypeEnvironment.cpp.obj"
+},
+{
+  "directory": "C:/Users/foush/code/project/CCC/build",
+  "command": "\"C:/Program Files/Cpp/Complier/w64devkit/bin/g++.exe\"  @CMakeFiles/CCC.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles/CCC.dir/src/buffer.cpp.obj -c C:/Users/foush/code/project/CCC/src/buffer.cpp",
+  "file": "C:/Users/foush/code/project/CCC/src/buffer.cpp",
+  "output": "CMakeFiles/CCC.dir/src/buffer.cpp.obj"
+},
+{
+  "directory": "C:/Users/foush/code/project/CCC/build",
+  "command": "\"C:/Program Files/Cpp/Complier/w64devkit/bin/g++.exe\"  @CMakeFiles/CCC.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles/CCC.dir/src/define.cpp.obj -c C:/Users/foush/code/project/CCC/src/define.cpp",
+  "file": "C:/Users/foush/code/project/CCC/src/define.cpp",
+  "output": "CMakeFiles/CCC.dir/src/define.cpp.obj"
+},
+{
+  "directory": "C:/Users/foush/code/project/CCC/build",
+  "command": "\"C:/Program Files/Cpp/Complier/w64devkit/bin/g++.exe\"  @CMakeFiles/CCC.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles/CCC.dir/src/main.cpp.obj -c C:/Users/foush/code/project/CCC/src/main.cpp",
+  "file": "C:/Users/foush/code/project/CCC/src/main.cpp",
+  "output": "CMakeFiles/CCC.dir/src/main.cpp.obj"
+}
+]

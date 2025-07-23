@@ -1,0 +1,14 @@
+P -> Stmts;
+Stmts -> stmt Stmts | null
+
+stmt -> type id = expr;
+        if (expr) stmt nextif; |
+        expr; |
+        while (expr) stmt |
+        {Stmts} |
+        for (expr; expr; expr) stmt |
+
+nextif -> null | else stmt;
+
+expr -> bit >> expr | bit << expr | bit & 
+type -> int | double | string
